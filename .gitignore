@@ -1,0 +1,10 @@
+.venv/
+venv/
+
+__pycache__/
+
+.vscode/
+
+test_webhook.py
+
+.streamlit/secrets.toml
